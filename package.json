@@ -2,7 +2,7 @@
   "name": "purplesquirrel.dev",
   "private": true,
   "description": "Colin's Dev Blog",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Colin Tindle <ampersand@underscore.space>",
   "dependencies": {
     "gatsby": "^2.1.23",
